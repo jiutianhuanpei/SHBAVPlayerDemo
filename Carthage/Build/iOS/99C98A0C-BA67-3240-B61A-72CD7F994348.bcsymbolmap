@@ -1,0 +1,16 @@
+BCSymbolMap Version: 1.0
++[SHBAVPlayer logMessage:]
+.str
+_unnamed_cfstring_
+OBJC_CLASS_NAME_
+OBJC_METH_VAR_NAME_
+OBJC_METH_VAR_TYPE_
+l_OBJC_$_CLASS_METHODS_SHBAVPlayer
+l_OBJC_METACLASS_RO_$_SHBAVPlayer
+l_OBJC_CLASS_RO_$_SHBAVPlayer
+OBJC_LABEL_CLASS_$
+Apple LLVM version 7.3.0 (clang-703.0.29)
++[SHBAVPlayer logMessage:]
+/Users/shenhongbang/Desktop/Bang_homework/SHBAVPlayerDemo/SHBAVPlayerDemo/SHBAVPlayer.m
+/Users/shenhongbang/Desktop/Bang_homework/SHBAVPlayerDemo
+/Users/shenhongbang/Library/Developer/Xcode/DerivedData/SHBAVPlayerDemo-edrtrvwrwhvqihhezzvvnkkcavwg/Build/Intermediates/SHBAVPlayerDemo.build/Release-iphoneos/SHBPlayer.build/DerivedSources/SHBPlayer_vers.c

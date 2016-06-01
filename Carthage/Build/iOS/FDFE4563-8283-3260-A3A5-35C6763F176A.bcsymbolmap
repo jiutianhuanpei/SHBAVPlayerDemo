@@ -1,0 +1,27 @@
+BCSymbolMap Version: 1.0
+-[ViewController viewDidLoad]
+-[ViewController didReceiveMemoryWarning]
++[ViewController logMessage:]
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+OBJC_METH_VAR_NAME_.1
+OBJC_SELECTOR_REFERENCES_.2
+.str
+_unnamed_cfstring_
+OBJC_CLASS_NAME_
+OBJC_METH_VAR_NAME_.3
+OBJC_METH_VAR_TYPE_
+l_OBJC_$_CLASS_METHODS_ViewController
+l_OBJC_METACLASS_RO_$_ViewController
+OBJC_METH_VAR_TYPE_.4
+l_OBJC_$_INSTANCE_METHODS_ViewController
+l_OBJC_CLASS_RO_$_ViewController
+OBJC_LABEL_CLASS_$
+Apple LLVM version 7.3.0 (clang-703.0.29)
++[ViewController logMessage:]
+/Users/shenhongbang/Desktop/Bang_homework/SHBAVPlayerDemo/SHBAVPlayerDemo/ViewController.m
+/Users/shenhongbang/Desktop/Bang_homework/SHBAVPlayerDemo
+-[ViewController didReceiveMemoryWarning]
+-[ViewController viewDidLoad]
+/Users/shenhongbang/Library/Developer/Xcode/DerivedData/SHBAVPlayerDemo-edrtrvwrwhvqihhezzvvnkkcavwg/Build/Intermediates/SHBAVPlayerDemo.build/Release-iphoneos/SHBPlayer.build/DerivedSources/SHBPlayer_vers.c
